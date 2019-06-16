@@ -4,8 +4,9 @@
 ## 1. Comment Your Code
 
 ```js
-// this is my first comment
-/* this is a multi line comment */
+// first inline comment 
+/* first multi-line
+comment*/
 ```
 
 ## 2. Declare Variables
